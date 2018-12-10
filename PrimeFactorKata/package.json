@@ -1,0 +1,14 @@
+{
+  "name": "primefactorkata",
+  "version": "1.0.0",
+  "description": "07/12/2018 - Prime factor kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}

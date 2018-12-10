@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    background-color: rgb(37, 12, 151);
+    border: 1px solid black;
+    text-align: right
+  }
+h2{
+    background-color: brown;
+    border-style: dotted;
+    border: 2px;
+    text-align: end;
+}
+
+footer{
+    background: blue;
+    text-align: center;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 2px;
+    text-decoration: lime;
+    padding: 1cm;
+}

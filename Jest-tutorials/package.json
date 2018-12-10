@@ -1,0 +1,14 @@
+{
+  "name": "com.primekata",
+  "version": "1.0.0",
+  "description": "PrimeFactor test - Kata practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ruturaj",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
