@@ -1,0 +1,26 @@
+const Express = require('express');
+const App = Express();
+
+************
+Methods :
+{
+    Get : to request a data
+    Post : to enter the data
+    Put : to update the data
+    Delete : to delete a date
+}
+************
+
+App.get('/', (req,res)=>{
+    App.send('Hello world');
+});
+
+App.get('/api/courses',(req,res)=>{
+    App.send([1,2,3]);
+});
+
+***** To provide a variable environment port *****
+// To set evn var <export PORT = 5000> on terminal.
+
+const Port = process.env.PORT || 3000;
+App.listen(Port,()=> console.log(`Listening on port ${Port}`));

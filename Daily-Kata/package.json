@@ -1,0 +1,16 @@
+{
+  "name": "Daily-Kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prime.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
