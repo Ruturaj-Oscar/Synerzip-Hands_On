@@ -9,7 +9,6 @@ const getFactor = numbers => {
     } else fact++;
   }
   if (numbers > 1) factorList.push(numbers);
-
   return factorList;
 };
 
